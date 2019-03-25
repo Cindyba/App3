@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace App3
 {
-    class Class1
+    class Class2
     {
-        public 
+        public string get(string input)
+            return "";
     }
 }
