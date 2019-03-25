@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <Button Name="About"/>
         <Button Name="save"/>
         <Button Name="cancel"/>
         <Button Name="Help"/>
