@@ -12,6 +12,7 @@
         <Button Name="About"/>
         <Button Name="modify"/>
         <Button Name="cancel"/>
+        <Button Name="Help"/>
 
     </Grid>
 </Page>
